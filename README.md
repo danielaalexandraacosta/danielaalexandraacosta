@@ -1,4 +1,8 @@
-## Hi there 👋
+[mi nombre es Daniela Alexandra Acosta Grass](https://github.com)
+[soy del programa de ingenieria de sistemas](https://github.com)
+[mis interes son el desarrollo de software y la IA](https://github.com)
+<img alt="Developer photo" src="https://us-prod.asyncgw.teams.microsoft.com/v1/2fde75dc-2a71-4b5c-9099-fa0ed3699195/objects/0-eus-d13-7b491f7163fcba82072fde1aad8b1c5f/views/imgpsh_fullsize" width="500px">
+[foto](https://us-prod.asyncgw.teams.microsoft.com/v1/2fde75dc-2a71-4b5c-9099-fa0ed3699195/objects/0-eus-d13-7b491f7163fcba82072fde1aad8b1c5f/views/imgpsh_fullsize) 
 
 <!--
 **danielaalexandraacosta/danielaalexandraacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
