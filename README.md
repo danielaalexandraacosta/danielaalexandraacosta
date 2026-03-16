@@ -23,9 +23,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=danielaalexandraacosta&label=Profile%20views&color=00D4FF&style=plastic">
 
-<img src="https://raw.githubusercontent.com/danielaalexandraacosta/danielaalexandraacosta/output/github-contribution-grid-snake.svg">
-
-<img src="https://raw.githubusercontent.com/danielaalexandraacosta/danielaalexandraacosta/output/github-contribution-grid-s… alt ="Snake Game"/>
+<img src=https://raw.githubusercontent.com/danielaalexandraacosta/danielaalexandraacosta/output/github-contribution-grid-snake.svg alt ="Snake Game"/>
 
 
 
