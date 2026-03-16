@@ -1,6 +1,6 @@
-# mi nombre es Daniela Alexandra Acosta Grass
-### soy del programa de ingenieria de sistemas
-### mis interes son el desarrollo de software y la IA
+# Mi nombre es Daniela Alexandra Acosta Grass
+### Soy del programa de ingenieria de sistemas
+### Mis intereses son el desarrollo de software y la IA
 <img alt="Developer photo" src="https://images.stockcake.com/public/8/7/7/877ff365-5505-4620-af18-9e92245def12_large/happy-software-developer-stockcake.jpg" width="500px">
  
 
